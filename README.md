@@ -4,7 +4,7 @@ Hi 👋 My name is Nicolas Hernandez
 FullStack developer and SDET
 ----------------------------
 
-I am an advanced student in the Bachelor of Systems program, currently excelling in the intricate world of software engineering. My current role as a Software Engineer in Test allows me to blend my academic insights with practical, real-world applications. With a strong foundation in full-stack development, I am proficient in a range of technologies including JavaScript, .NET, Node.js, React, and Angular. My journey in this field is driven by a passion for innovation and a commitment to excellence, ensuring that every project I undertake is a step towards technological advancement.
+I am an advanced student in the Bachelor of Systems program, currently excelling in the intricate world of software engineering. My current role as a FullStack Software Engineer allows me to blend my academic insights with practical, real-world applications. With a strong foundation in full-stack development, I am proficient in a range of technologies including JavaScript, .NET, Node.js, React, and Angular. My journey in this field is driven by a passion for innovation and a commitment to excellence, ensuring that every project I undertake is a step towards technological advancement.
 
 *   🌍  I'm based in Montevideo, Uruguay
 *   ✉️  You can contact me at [nicolashernandezf22@gmail.com](mailto:nicolashernandezf22@gmail.com)
