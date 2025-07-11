@@ -1,14 +1,13 @@
-Hi 👋 My name is Nicolas Hernandez
-==================================
+### 👋 Hi, I'm Nicolas!
 
-FullStack developer and SDET
-----------------------------
+I'm a **Full-Stack Software Engineer** from Uruguay, passionate about building robust and scalable web applications. As a senior Systems Engineering student, I enjoy bridging academic knowledge with real-world challenges to create high-quality, reliable tech solutions.
 
-I am an advanced student in the Bachelor of Systems program, currently excelling in the intricate world of software engineering. My current role as a FullStack Software Engineer allows me to blend my academic insights with practical, real-world applications. With a strong foundation in full-stack development, I am proficient in a range of technologies including JavaScript, .NET, Node.js, React, and Angular. My journey in this field is driven by a passion for innovation and a commitment to excellence, ensuring that every project I undertake is a step towards technological advancement.
+- 🚀 I’m actively seeking **full-stack opportunities in Europe**.
+- 🌱 I’m currently deepening my knowledge in **Artificial Intelligence**.
+- 👨‍💻 My core technologies include **.NET, Java, Angular, React, and TypeScript**.
+- 📫 You can reach me at: **nicolashernandezf22@gmail.com**
 
-*   🌍  I'm based in Montevideo, Uruguay
-*   ✉️  You can contact me at [nicolashernandezf22@gmail.com](mailto:nicolashernandezf22@gmail.com)
-*   🧠  I'm learning Java, Docker
+---
 
 ### Skills 
 <p align="left">
@@ -30,6 +29,3 @@ I am an advanced student in the Bachelor of Systems program, currently excelling
 
 <a href="https://github.com/NicolasAHF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAHF&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/NicolasAHF/FullStack-.net-angular-application-blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasAHF&repo=FullStack-.net-angular-application-blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
