@@ -4,7 +4,7 @@ I'm a **Full-Stack Software Engineer** from Uruguay, passionate about building r
 
 - 🚀 I’m actively seeking **full-stack opportunities in Europe**.
 - 🌱 I’m currently deepening my knowledge in **Artificial Intelligence**.
-- 👨‍💻 My core technologies include **.NET, Java, Angular, React, and TypeScript**.
+- 👨‍💻 My core technologies include **.NET, Java, Node, React, and TypeScript**.
 - 📫 You can reach me at: **nicolashernandezf22@gmail.com**
 
 ---
